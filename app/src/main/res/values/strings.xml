@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AhmedSamy_Merah_A1</string>
+    <string name="edt_hint_amount">Enter Amount</string>
+    <string name="checkBox_txt_IncludeHST">Include HST</string>
+    <string name="txt_tip">Tip %</string>
+    <string name="txt_NumberOfPeople"># of people</string>
+    <string name="btn_text_clear">Clear</string>
+    <string name="txt_tipTotal" formatted="false">Tip is: %.2f</string>
+    <string name="txt_Total">Total is: %.2f</string>
+    <string name="txt_perPerson">Per person: %.2f</string>
+
+
+    <string-array name="percentages">
+        <item>10</item>
+        <item>15</item>
+        <item>18</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="people">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+</resources>
